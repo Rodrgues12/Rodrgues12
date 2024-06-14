@@ -1,16 +1,23 @@
-## Hi there 👋
+## About me 👋
 
-<!--
-**Rodrgues12/Rodrgues12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤔 Quem sou eu:
 
-Here are some ideas to get you started:
+- 🤝 Meu nome é Matheus Rodrigues, mas pode me chamar de Matheus ou Theus.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Especializado em Python, React.Js e Desenvolvimento Web (HTML, CSS e JS), estou atualmente me especializando em React Native. Meu foco principal é Front-end, mas sou um programador fullstack, atuando tanto no front quanto no backend.
+
+- 🎓 Apaixonado por tecnologia, estou me formando em GTI na Universidade Paulista (UNIP).
+
+- 🎓 Durante o curso, decidi por fora aprimorar minhas habilidades em Fundamentos de TI: Hard e Soft, POO (Programação Orientada a Objetos), Excel e Modelagem de dados.
+
+- 🎓 Cursando Microsoft Power BI Para Business Intelligence e Data Science na DataScienceAcademy.
+
+- 💻 Adoro participar de eventos sobre diversas tecnologias para entender mais sobre esse vasto mundo em que estamos conectados.
+
+- 📱 No meu tempo livre, gosto de descobrir novas tecnologias, IA's, e estudar práticas e assuntos de GTI . Além disso, pratico academia, esportes e Games.
+
+:atom: Competências Técnicas:
+- 💻  C | Portugol Studio
+
+- 🎨  Photoshop | Exce
+
