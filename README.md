@@ -11,6 +11,6 @@
 
 :atom: Competências Técnicas:
 - 💻  C | Portugol Studio
-
+- 💭 Métodologias Ágeis Scrum | Cascata
 - 🎨  Photoshop | Exce
 
